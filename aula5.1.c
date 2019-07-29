@@ -10,5 +10,6 @@ int main(){
     x = ch2;
     printf("x = %d \n",x);
 
+
     return 0;
 }
