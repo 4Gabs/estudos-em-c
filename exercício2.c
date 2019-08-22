@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main(){
 
-    int numero = 10;
+    int nro;
 
     printf("\n digite um numero:\n");
-    
-    printf("\n o numero informado foi: %d \n",numero);
+    scanf("\n %d", &nro);
+    printf("\n o numero informado foi: %d \n",nro);
 
     return 0;
 }
