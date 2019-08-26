@@ -1,0 +1,9 @@
+bit = armazena só um numero, 2 elevado 1 
+
+byte = 8 bits
+
+char = 1 byte
+
+int = 4 byts
+
+long =  8 bytes só para numeros inteiros
